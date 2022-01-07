@@ -1,0 +1,59 @@
+body
+{
+    background-image:url(9.gif);
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-size:cover;
+    
+}
+#mycarousel
+{
+   border-width: 10px;
+   background-color: aliceblue;
+   border-style: ridge;
+   border-color: darkviolet;
+  margin-top: 100px;
+  width: 810px;
+  height: 510px;
+  margin-left: 250px;
+  border-radius: 40px;
+  margin-top:100px ;
+}
+img{
+  height: 500px;
+  width: 800px;
+  border-radius: 40px;
+}
+
+
+html{
+  scroll-behavior: smooth;
+  
+}
+a{
+  text-decoration: none;
+  color: crimson;
+  font-size: 80px;
+  color: blueviolet;
+  font-family:cursive;
+  text-shadow: 4px 4px gainsboro;
+  margin: 4px;
+}
+button{
+  height: 60px;
+  width: 130px;
+  margin: 70px;
+  border-width: 10px;
+  border-radius: 20px;
+  border-color: blueviolet;
+  font-family:cursive;
+  font-weight: 300;
+  background-color: blanchedalmond;
+  font-family: cursive;
+}
+.marquee{
+  font-family:cursive;
+  font-weight: 300;
+  color: brown;
+}
